@@ -4,29 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fd8e78f-6363-4ef9-9fa6-ff8ac1a7a76e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/allure-results/12c515f5-f5d8-47d8-9ece-0637d1e72749-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/323f3fa3-b720-407c-b406-02b90f92e4d2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4c5aadf0-f182-40f4-803f-1824c19acb5f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5823ed95-aa44-4bc8-adc8-3a6c71c8be4f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6948f0c3-2a71-46ca-99e5-6a01a426e2db-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6e7e6171-8855-48f9-88fd-a08a43876e11-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9c165d7a-c8ea-4622-b88f-b77ba0a95050-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ab6efcd8-85ec-4bce-9b39-e6ffec829559-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b6ad796a-bb16-44a6-85fc-d187597c66ad-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b6d652e7-f76d-46cc-8df4-79d587e4e859-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b7816e39-ae17-4a3f-93ea-6d866397c6ce-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cf6cf5e7-4a57-458e-afed-b00def0e453f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d0c91d47-60d2-4bc5-ab54-e2f482aaf5fb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/e146c921-fbad-4fe6-8ce2-04ab9b0becd7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ef898472-c280-4484-a60f-39042ec8c713-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f6e8b0d1-dcb4-490c-928f-f325a08c5587-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/Alltags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/Katalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/URL.java" afterDir="false" />
+    <list default="true" id="5fd8e78f-6363-4ef9-9fa6-ff8ac1a7a76e" name="Changes" comment="&quot;March 25th&quot;">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/Ebay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/VWOLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/VWOLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +45,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.Katalon.Login">
+  <component name="RunManager" selected="TestNG.C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml">
     <configuration name="Alltags.Tags" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <extension name="coverage">
@@ -77,6 +58,16 @@
       <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.Alltags" />
       <option name="METHOD_NAME" value="Tags" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -136,31 +127,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VWOLogin.Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SeleniumTesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.VWOLogin" />
-      <option name="METHOD_NAME" value="Login" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml" />
         <item itemvalue="TestNG.Katalon.Login" />
         <item itemvalue="TestNG.Alltags.Tags" />
         <item itemvalue="TestNG.URL.RunLogin" />
         <item itemvalue="TestNG.VWOLogin" />
-        <item itemvalue="TestNG.VWOLogin.Login" />
       </list>
     </recent_temporary>
   </component>
@@ -173,9 +146,20 @@
       <option name="presentableId" value="Default" />
       <updated>1710611343198</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;March 25th&quot;">
+      <option name="closed" value="true" />
+      <created>1711343255154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711343255182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;March 25th&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;March 25th&quot;" />
   </component>
 </project>
