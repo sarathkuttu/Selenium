@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fd8e78f-6363-4ef9-9fa6-ff8ac1a7a76e" name="Changes" comment="&quot;March 25th&quot;">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/Ebay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bb11aef-bd5e-4b22-a2ab-dbf8722ba210-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/29f196e8-2b49-49b9-9078-1c90bcf3c2a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/375c0421-78b8-46b7-9af8-ac362d01dab7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/54b19525-57b0-41e9-a221-97bb44ef0a15-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/58ff2b27-d38a-4e71-afbb-680b07c1ca31-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/71a426c5-1ba7-4499-973d-a694f57b031f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b34426bf-715f-47c5-a66b-8392514b2656-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d3f67049-22c8-434a-ba15-3c073b17d015-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/CSSSelector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +49,17 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml">
-    <configuration name="Alltags.Tags" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.SeleniumTesting" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CSSSelector.Login">
+    <configuration name="CSSSelector" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +68,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.Alltags" />
-      <option name="METHOD_NAME" value="Tags" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.CSSSelector" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CSSSelector.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SeleniumTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.CSSSelector" />
+      <option name="METHOD_NAME" value="Login" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -74,7 +104,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Katalon.Login" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Ebay" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <extension name="coverage">
         <pattern>
@@ -83,44 +113,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.Katalon" />
-      <option name="METHOD_NAME" value="Login" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="URL.RunLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SeleniumTesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.URL" />
-      <option name="METHOD_NAME" value="RunLogin" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VWOLogin" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.SeleniumTesting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
-      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.VWOLogin" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.Ebay" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ebay.MACITEMS" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SeleniumTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.Ebay" />
+      <option name="METHOD_NAME" value="MACITEMS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -129,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.CSSSelector.Login" />
+        <item itemvalue="TestNG.Ebay.MACITEMS" />
+        <item itemvalue="TestNG.Ebay" />
+        <item itemvalue="TestNG.CSSSelector" />
         <item itemvalue="TestNG.C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml" />
-        <item itemvalue="TestNG.Katalon.Login" />
-        <item itemvalue="TestNG.Alltags.Tags" />
-        <item itemvalue="TestNG.URL.RunLogin" />
-        <item itemvalue="TestNG.VWOLogin" />
       </list>
     </recent_temporary>
   </component>
