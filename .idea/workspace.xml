@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fd8e78f-6363-4ef9-9fa6-ff8ac1a7a76e" name="Changes" comment="&quot;March 25th&quot;">
-      <change afterPath="$PROJECT_DIR$/allure-results/1bb11aef-bd5e-4b22-a2ab-dbf8722ba210-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/29f196e8-2b49-49b9-9078-1c90bcf3c2a4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/375c0421-78b8-46b7-9af8-ac362d01dab7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/54b19525-57b0-41e9-a221-97bb44ef0a15-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/58ff2b27-d38a-4e71-afbb-680b07c1ca31-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/71a426c5-1ba7-4499-973d-a694f57b031f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b34426bf-715f-47c5-a66b-8392514b2656-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d3f67049-22c8-434a-ba15-3c073b17d015-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/CSSSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6b657002-ff62-4fec-87ab-87fce0fe0436-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/87362a2c-b9fe-487a-b832-5bd1031bf1ae-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c9cc04fd-6264-4bf2-be53-b04c66d9b25e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ddb63515-ef51-4a62-910a-9c53b27999ca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/DropDown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/CSSSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/SeleniumTesting/CSSSelector.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <recent name="com.SeleniumTesting" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.CSSSelector.Login">
+  <component name="RunManager" selected="TestNG.DropDown.Options">
     <configuration name="CSSSelector" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
       <extension name="coverage">
@@ -94,10 +91,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DropDown.Options" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumTest" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SeleniumTesting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.SeleniumTesting" />
+      <option name="MAIN_CLASS_NAME" value="com.SeleniumTesting.DropDown" />
+      <option name="METHOD_NAME" value="Options" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -141,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DropDown.Options" />
         <item itemvalue="TestNG.CSSSelector.Login" />
         <item itemvalue="TestNG.Ebay.MACITEMS" />
         <item itemvalue="TestNG.Ebay" />
         <item itemvalue="TestNG.CSSSelector" />
-        <item itemvalue="TestNG.C:/Users/Sarath/IdeaProjects/SeleniumTest/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711343255182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;March 25th&quot;">
+      <option name="closed" value="true" />
+      <created>1712920271489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712920271489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -43,7 +43,7 @@ public class CSSSelector {
 
         WebElement username = driver.findElement(By.xpath("(//input[@placeholder='Username'])[2]"));
         username.sendKeys("John Doe");
-        WebElement password = driver.findElement(By.id("txt-password"));
+        WebElement password = driver.findElement(By.cssSelector("#txt-password"));
         password.sendKeys("ThisIsNotAPassword");
 
         WebElement login_button = driver.findElement(By.id("btn-login"));
